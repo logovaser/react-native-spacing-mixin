@@ -1,0 +1,15 @@
+{
+  "name": "react-native-spacing-mixin",
+  "description": "Handy Bootstrap4-like mixin for fast margin and padding applying.",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Artem Prudnikov",
+  "homepage": "",
+  "contributors": [ "Artem Prudnikov <logovaser@gmail.com> (https://github.com/logovaser)" ],
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "WTFPL",
+    "url": "http://www.wtfpl.net/"
+  }]
+}
